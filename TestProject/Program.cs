@@ -33,6 +33,7 @@
 
             for (int k = 0; k < Array.Length; k++)
             {
+
                 if (k == Array.Length - 1)
                     Console.Write(Array[k]);
                 else
